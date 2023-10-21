@@ -43,7 +43,6 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     libteecl \
     libuuid \
-    liboemcrypto \
     camera.exynos7904 \
     gatekeeper.exynos7904 \
     sensors.universal7904 \

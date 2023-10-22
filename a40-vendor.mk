@@ -58,6 +58,5 @@ PRODUCT_PACKAGES += \
     libskeymaster4device \
     libuniapi \
     libuniplugin \
-    libvideobeauty_interface \
     tzdaemon \
     tzts_daemon
